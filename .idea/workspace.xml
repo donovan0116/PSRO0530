@@ -5,62 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7293e4a-e27e-4607-bbe9-d5a15e56f4a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PSRO/Networks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSRO/Networks/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSRO/Networks/network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSRO/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSRO/ppo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PSRO0515.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PSRO0515.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSRO/NashDP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSRO/NashDivideAndConquer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSRO/NashGreedy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/Mujoco-Pytorch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/agents/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/ant.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/ant.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/halfcheetah.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/hopper.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/hopper.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/humanoid.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/ppo_in_mujoco.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/reacher.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/swimmer.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/swimmer.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/walker2d.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/config.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/evaluation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_100" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_200" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_300" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_400" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_500" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_600" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_700" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_800" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PSRO/Agents/ppo.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PSRO/Utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSRO/Utils/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PSRO/evaluationAgent.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSRO/evaluationAgent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PSRO/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSRO/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PSRO/metaGameAgent.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSRO/metaGameAgent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PSRO/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSRO/sample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PSRO/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSRO/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slimevolleygym" beforeDir="false" afterPath="$PROJECT_DIR$/slimevolleygym" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/slimevolleygym/slimevolleygym/slimevolley.py" beforeDir="false" afterPath="$PROJECT_DIR$/slimevolleygym/slimevolleygym/slimevolley.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,17 +39,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "Python.ppo.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/yz/Desktop/PSRO0515",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ppo.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/yz/Desktop/PSRO0515&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PSRO0515" />

@@ -120,3 +120,24 @@ def update_mean_var_count_from_moments(mean, var, count, batch_mean, batch_var, 
     new_count = tot_count
 
     return new_mean, new_var, new_count
+
+
+def calculate_payoffs(args, num_matches=10):
+    num_actors = len(args.population)
+    payoffs = np.zeros((num_actors, num_actors))
+    for i in range(num_actors):
+        for j in range(num_actors):
+            if i != j:
+                total_score_i = 0
+                total_score_j = 0
+                for _ in range(num_matches):
+                    args.env.reset()
+                    done = False
+                    while not done:
+                        action_i = args.population[i].select_action(args.env)
+                        action_j = args.population[j].select_action(args.env)
+                        _, reward, done, _ = args.env.step([action_i, action_j])
+                        total_score_i += reward[0]
+                        total_score_j += reward[1]
+                payoffs[i][j] = total_score_i / num_matches  # 计算 actor i 的平均得分
+    return payoffs
