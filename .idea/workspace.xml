@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7293e4a-e27e-4607-bbe9-d5a15e56f4a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PSRO/Networks/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSRO/Networks/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSRO/Networks/network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSRO/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSRO/ppo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PSRO0515.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PSRO0515.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/Mujoco-Pytorch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/agents/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/ant.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/ant.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/halfcheetah.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/hopper.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/hopper.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/humanoid.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/ppo_in_mujoco.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/reacher.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/swimmer.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/swimmer.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/assets/walker2d.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/config.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/evaluation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_100" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_200" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_300" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_400" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_500" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_600" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_700" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/model_weights/agent_800" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujoco-Pytorch/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PSRO/Agents/ppo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PSRO/Utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSRO/Utils/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PSRO/evaluationAgent.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSRO/evaluationAgent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PSRO/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSRO/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PSRO/metaGameAgent.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSRO/metaGameAgent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PSRO/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSRO/sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PSRO/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSRO/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slimevolleygym/slimevolleygym/slimevolley.py" beforeDir="false" afterPath="$PROJECT_DIR$/slimevolleygym/slimevolleygym/slimevolley.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gUwrn6CL5fVQ7YNuaHCB8WWbRo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.ppo.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/yz/Desktop/PSRO0515",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PSRO0515" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PSRO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PSRO/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7293e4a-e27e-4607-bbe9-d5a15e56f4a7" name="Changes" comment="" />
+      <created>1715765664070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715765664070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="tot_reward_j" language="Python" />
+        <watch expression="tot_reward_i" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
